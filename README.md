@@ -6,3 +6,4 @@
 
 ### - [Google Data Studio dashboard](https://datastudio.google.com/reporting/4449791a-985a-47b0-97fa-bce2c3dc0fbc)
 ### - [Tableau dashboard](https://public.tableau.com/app/profile/john.gimlin/viz/Colorado_COVID/Overview)
+![Tableau dashboard](one_tableau.jpg)
